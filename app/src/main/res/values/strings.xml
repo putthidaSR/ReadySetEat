@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ready Set Eat</string>
+    <string name="select_image">Select Image</string>
+    <string name="user_image">User image</string>
+    <string name="openCamera">Go to Gallery</string>
+    <string name="green_button">Go Back Home</string>
+    <string name="yellow_button">Go Back Home</string>
+    <string name="red_button">Go Back Home</string>
+</resources>
